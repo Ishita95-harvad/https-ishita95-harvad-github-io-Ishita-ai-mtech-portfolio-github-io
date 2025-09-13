@@ -1,6 +1,7 @@
 
  # Ishita95-harvad-Ishita-ai-portfolio.github.io [Thesis Dissertation and Conference Presentation Projects and Research Paper Publication] 
  MTech-Forecasting -climate aware- ml- rl optimation renewable energy- IEEE APPEEC DEC 2025- CASE STUDIES !
+ 
 [mtech-aiswag--portfolio.github.io](https://github.com/Ishita95-harvad/mtech-aiswag--portfolio.github.io/tree/main/.github/)
 
 ----------------------------------------------------------------------------------------------------------------
