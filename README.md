@@ -1,7 +1,8 @@
 [mtech-aiswag--portfolio.github.io](https://github.com/Ishita95-harvad/mtech-aiswag--portfolio.github.io/tree/main/.github/)
 
+MTech-Forecasting -climate aware- ml- rl optimation renewable energy- IEEE APPEEC DEC 2025- CASE STUDIES WEBPAGE DISPLAY PAGE LIVE!
 ----------------------------------------------------------------------------------------------------------------
-5# Ishita95-harvad-Ishita-ai-portfolio.github.io [Portfolio Projects]
+ # Ishita95-harvad-Ishita-ai-portfolio.github.io [Thesis Dissertation and Conference Presentation Projects and Research Paper Publication] 
 <p style="color: red;">Powered By</p>
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fishita95-harvad.github.io)](https://ishita95-harvad.github.io)
