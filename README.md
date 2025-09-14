@@ -1,8 +1,8 @@
 
- # Thesis Dissertation and Conference Presentation Projects and Research Paper Publication 
+ # Thesis Dissertation and Conference Presentation Projects and Research Paper Publication [cse-aiml-portfolio.github.io](https://github.com/Ishita95-harvad/cse-aiml-portfolio.github.io)
  MTech-Forecasting -climate aware- ml- rl optimation renewable energy- IEEE APPEEC DEC 2025- CASE STUDIES !
  
-[cse-aiml-portfolio.github.io](https://github.com/Ishita95-harvad/cse-aiml-portfolio.github.io)
+
 
 ----------------------------------------------------------------------------------------------------------------
 
